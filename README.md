@@ -502,15 +502,3 @@ export const authMiddleware = async function (c : Context , next : Next) {
 ```
 
 ---
-## 10. Custom Sign-In Page (Optional)
-
-Define a custom sign-in page:
-
-```typescript
-// src/app/auth/signin/page.tsx
-```
-
----
-
-This guide provides a structured outline for setting up authentication with NextAuth.js. Fill in the necessary configurations and code as required.
-
