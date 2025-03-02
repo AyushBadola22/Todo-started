@@ -16,7 +16,7 @@ import { useTodoQueries } from '@/hooks/use-todo';
 import useTodoStore from '@/hooks/todo-store';
 
 
-export default function ProtectedPage() {
+export default function TodoPage() {
   const { data: session, status } = useSession();
   const router = useRouter();
 
