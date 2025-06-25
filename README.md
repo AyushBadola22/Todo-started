@@ -1,5 +1,5 @@
 # NextAuth.js Setup Guide
-
+This is a training project , whose sole purpose was to get familiar with the tech stacks
 This guide provides a structured approach to setting up NextAuth.js in a Next.js application with TypeScript. It covers:
 
 - Installation and configuration
